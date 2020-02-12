@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    /* background: url(../assets/aerial-shot-of-forest-3604267.jpg) center;
+    background-size: cover;
+    background-attachment: fixed; */
+    overflow-x: hidden;
+    width: 100vw;
+}
+h1 {
+    color: black;
+}
+
+.lead {
+    color: black;
+}
+
+.wrapper {
+    width: 100vw;
+    margin: auto;
+}

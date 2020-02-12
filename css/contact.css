@@ -1,0 +1,16 @@
+#contact {
+    color: black;
+    background-color: #f5f5f5;
+}
+
+#contact .container {
+    border-top-style: solid;
+    border-width: 1px;
+    width: 60%;
+    margin: auto;
+
+}
+
+#contactPic {
+    
+}

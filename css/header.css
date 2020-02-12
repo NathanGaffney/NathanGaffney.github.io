@@ -1,0 +1,28 @@
+.jumbotron {
+    background-image: url(../assets/mug\ right\ side.jpg);
+    /* background-color: transparent; */
+    height: 100vh;
+    margin: 0;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position-y: -225px;
+}
+
+.jumbotron h1 {
+    font-size: 4em;
+}
+
+.jumbotron .lead {
+    font-size: 2em;
+}
+
+.jumbotron .container {
+    margin-top: 0;
+    height: 15em;
+    width: 40em;
+    padding: 2em 0 0 8em;
+    float: left;
+    background-color: #fdfdfd;
+    box-shadow: grey 0 3px 15px 0.5px;
+    border-radius: 0 2px 2px 0;
+}
