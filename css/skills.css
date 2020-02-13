@@ -1,0 +1,82 @@
+#skills {
+    background-image: url(../assets/green\ tablet\ keyboard.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+
+    background-color: #f3f3f3;
+    /* background-image: url(../assets/laptop\ white.jpg); */
+    /* background-image: url(../assets/tablet.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat; */
+    /* background-position-x: 30px; */
+    color: #547638;
+    height: 100vh;
+    width: 100%;
+
+    border-bottom-color: #547638;
+    border-bottom-style: solid;
+    border-width: 3px;
+}
+
+#skills .container {
+    height: 22em;
+    width: 55em;
+    padding-top: 5px;
+    margin-top: 2em;
+    float: left;
+    font-size: 1em;
+    background-color: white;
+    color: black;
+    box-shadow: grey 0 3px 15px 0.5px;
+    border-radius: 2px;
+    border-bottom-color: #547638;
+    border-bottom-style: solid;
+    border-top-color: #547638;
+    border-top-style: solid;
+    border-right-color: #547638;
+    border-right-style: solid;
+    border-width: 3px;
+
+}
+
+#skills .skillsHeader {
+    border-bottom-style: solid;
+    border-bottom-color: #547638;
+    padding-bottom: .5em;
+    border-width: 2px;
+    width: 25%;
+    margin: auto;
+    margin-bottom: 2em;
+}
+
+#skills h1 {
+    padding-top: 2em;
+}
+
+#skills .h5 {
+    font-weight: bolder;
+    padding: 0;
+}
+
+#skills .col-3 {
+    /* margin: 1em; */
+    /* padding: 1em; */
+    /* padding-top: 1em; */
+}
+
+#skills i {
+    display: flex;
+    justify-content: center;
+    /* margin-top: 1em; */
+    padding-left: 1.5em;
+    color: #547638;
+}
+
+#skills p {
+    /* margin-top: 1em; */
+    padding: 0;
+    background-color: white;
+    color: black;
+}

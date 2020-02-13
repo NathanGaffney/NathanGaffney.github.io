@@ -1,8 +1,17 @@
 #projects {
-    height: 100vh;
+    height: 200vh;
     padding-top: 4em;
     background-color: #f5f5f5;
     color: black;
+}
+
+#projects h1 {
+    border-bottom-style: solid;
+    border-bottom-color: #547638;
+    padding-bottom: .5em;
+    border-width: 2px;
+    width: 25%;
+    margin: auto;
 }
 
 #projects .container {
@@ -11,7 +20,26 @@
 
 #projects p {
     /* box-shadow: 1px 1px 1px 1px; */
-    margin: 2em;
-    /* padding-top: 3em; */
+    margin-top: 1.5em;
+    padding-right: 1em;
     font-size: 1.5em;
+}
+
+#projects a img{
+    border-radius: 2px;
+    box-shadow: grey 0 3px 15px 0.5px;
+}
+
+#projects .col-5 {
+    margin-bottom: 2em;
+    padding: 0;
+}
+
+#projects .col-6 {
+    margin-bottom: 2em;
+    padding: 0;
+}
+
+#projects .row {
+    margin-bottom: 2em;
 }

@@ -2,12 +2,18 @@
     /* background-image: url(../assets/mug\ right\ side.jpg); */
     /* background-image: url(../assets/chair\ at\ bottom\ of\ screen.jpg); */
     background-image: url(../assets/plant\ right\ side.jpg);
+    /* background-image: url(../assets/laptop\ 2.jpg); */
+    /* background-image: url(../assets/monitor.jpg); */
     /* background-color: transparent; */
     height: 100vh;
     margin: 0;
     /* background-attachment: fixed; */
     background-size: cover;
     background-position-y: -225px;
+    border-radius: 0 2px 2px 0;
+    border-bottom-color: #547638;
+    border-bottom-style: solid;
+    border-width: 3px;
 }
 
 .jumbotron h1 {
@@ -20,11 +26,18 @@
 
 .jumbotron .container {
     margin-top: 0;
-    height: 15em;
+    height: 15.2em;
     width: 40em;
     padding: 2em 0 0 8em;
     float: left;
-    background-color: #fdfdfd;
+    background-color: #f8f9fa;
     box-shadow: grey 0 3px 15px 0.5px;
     border-radius: 0 2px 2px 0;
+    border-top-color: #547638;
+    border-top-style: solid;
+    border-right-color: #547638;
+    border-right-style: solid;
+    border-bottom-color: #547638;
+    border-bottom-style: solid;
+    border-width: 3px;
 }

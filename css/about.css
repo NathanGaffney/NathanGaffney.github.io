@@ -2,25 +2,43 @@
     /* background-image: url(../assets/stairs\ left\ side.jpg); */
     /* background-image: url(../assets/plant\ bottom\ left.jpg); */
     /* background-image: url(../assets/laptop.jpg); */
-    background-image: url(../assets/chair\ at\ bottom\ of\ screen.jpg);
+    /* background-image: url(../assets/chair\ at\ bottom\ of\ screen.jpg); */
+
+    
+    background-image: url(../assets/lamp\ left\ side.jpg);
     background-size: cover;
     /* background-attachment: fixed; */
-    height: 120vh;
-    background-position-y: -250px;
-    background-position-x: -500px;
+    height: 100vh;
+    background-position-y: -225px;
+    /* background-position-y: -250px; */
+    /* background-position-x: -500px; */
+    background-position-x: -280px;
+    border-radius: 0 2px 2px 0;
+
+        border-bottom-color: #547638;
+    border-bottom-style: solid;
+    border-width: 3px;
+
 }
 
 #about .container {
-    height: 26.5em;
-    width: 60em;
+    height: 26.9em;
+    width: 63em;
     /* padding-top: 10em; */
-    margin-top: 10em;
+    margin-top: 13em;
     float: right;
     font-size: 1em;
     background-color: white;
     color: black;
     box-shadow: grey 0 3px 15px 0.5px;
     border-radius: 2px;
+    border-left-color: #547638;
+    border-left-style: solid;
+    border-bottom-color: #547638;
+    border-bottom-style: solid;
+    border-top-color: #547638;
+    border-top-style: solid;
+    border-width: 3px;
 }
 
 #about .aboutHeader { /*This is for the about heading*/
@@ -30,6 +48,11 @@
     background-color: transparent;
     text-align: left;
     font-size: 5em;
+}
+
+#about .container p {
+    padding-right: 1em;
+    font-size: 1.3em;
 }
 
 #about .container .col-4 {
@@ -48,6 +71,9 @@
     height: 25em;
     width: 100%;
     padding: 0;
-    /* border-radius: 30px; */
     z-index: 100;
 }
+
+/* #about img {
+    border-radius: 2px;
+} */

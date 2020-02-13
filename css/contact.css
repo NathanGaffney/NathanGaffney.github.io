@@ -5,12 +5,14 @@
 
 #contact .container {
     border-top-style: solid;
-    border-width: 1px;
+    border-top-color: #547638;
+    border-width: 2px;
     width: 60%;
     margin: auto;
-
 }
 
-#contactPic {
-    
+#contactPic img{
+    margin-top: 2.5em;
+    border-radius: 2px;
+    box-shadow: grey 0 3px 15px 0.5px;
 }

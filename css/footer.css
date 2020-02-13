@@ -1,8 +1,21 @@
 footer {
     /* background-color: teal; */
+    color: white;
     background-color: #547638;
-    height: 6em;
+    height: 7em;
     width: 100%;
     text-align: center;
-    /* padding-top: 1em; */
+    text-decoration: none;
+    padding-top: 0.5em;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover {
+    text-decoration: none;
+    color: white;
+    box-shadow: white;
 }
