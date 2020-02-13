@@ -1,9 +1,11 @@
 .jumbotron {
-    background-image: url(../assets/mug\ right\ side.jpg);
+    /* background-image: url(../assets/mug\ right\ side.jpg); */
+    /* background-image: url(../assets/chair\ at\ bottom\ of\ screen.jpg); */
+    background-image: url(../assets/plant\ right\ side.jpg);
     /* background-color: transparent; */
     height: 100vh;
     margin: 0;
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
     background-size: cover;
     background-position-y: -225px;
 }

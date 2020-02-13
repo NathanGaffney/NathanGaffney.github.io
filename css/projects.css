@@ -1,5 +1,5 @@
 #projects {
-    height: 80vh;
+    height: 100vh;
     padding-top: 4em;
     background-color: #f5f5f5;
     color: black;
@@ -7,4 +7,11 @@
 
 #projects .container {
     padding-top: 5em;
+}
+
+#projects p {
+    /* box-shadow: 1px 1px 1px 1px; */
+    margin: 2em;
+    /* padding-top: 3em; */
+    font-size: 1.5em;
 }
